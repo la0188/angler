@@ -1,4 +1,4 @@
-import numpy as np #la01
+import numpy as np
 import scipy.sparse as sp
 import copy
 import progressbar
